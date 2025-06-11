@@ -1,4 +1,4 @@
-database:
+databases:
     - name: mysetedb
       plan: free
       databaseName: naru1234
